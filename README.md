@@ -1,4 +1,23 @@
-### Build and run locally (Linux)
+# Machine Learning Boosting
+
+This Jupyter-Notebook is also part of [codecentric's AI Bootcamp](https://bootcamp.codecentric.ai/).
+
+The interactive notebook illustrates the concepts of
+- sparse matrix representation,
+
+<img src="notebooks/images/sparseMatrix.jpg" alt="sparse matrix" width="250"/>
+  
+- Bagging,
+- AdaBoost,
+- Gradient Boosting,
+
+<img src="notebooks/images/gradientboostingTrain.jpg" alt="sparse matrix" width="250"/>
+
+- and XGBoost.
+
+Have fun!
+
+# Build and run locally
 
 ```bash
 git clone https://gitlab.codecentric.de/bert.besser/ml-boosting-basics
